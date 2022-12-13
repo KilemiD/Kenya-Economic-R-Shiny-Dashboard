@@ -1,0 +1,14 @@
+name: Kenya_Economy_Dashboard
+title:
+username:
+account: danielkilemi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7881273
+bundleId: 6630516
+url: https://danielkilemi.shinyapps.io/Kenya_Economy_Dashboard/
+when: 1670911980.18117
+lastSyncTime: 1670911980.18117
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: expectancy.csv|expectancy.xlsx|facilities map.R|gganimate.gif|health.csv|kab.jpg|www/gganimate.gif|www/images/gganimate.gif|www/images/rstudio.png

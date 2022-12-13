@@ -1,0 +1,155 @@
+index,country_code,country_name,year,value,country,sub region,Continent,rank,Value_rel,Value_lbl
+8,AGO,Angola,1990,11236275843,Angola,Middle Africa,Africa,11,0.097239994,11
+19,CMR,Cameroon,1990,12314482085,Cameroon,Middle Africa,Africa,8,0.106570913,12
+24,DZA,Algeria,1990,62048562947,Algeria,Northern Africa,Africa,2,0.53697524,62
+40,EGY,"Egypt, Arab Rep.",1990,42978914311,Egypt,Northern Africa,Africa,4,0.371944357,43
+53,ETH,Ethiopia,1990,12175166763,Ethiopia,Eastern Africa,Africa,10,0.105365262,12
+78,LBY,Libya,1990,28901836158,Libya,Northern Africa,Africa,6,0.25011974,29
+91,MAR,Morocco,1990,30180108562,Morocco,Northern Africa,Africa,5,0.261182053,30
+102,NGA,Nigeria,1990,54035795388,Nigeria,Western Africa,Africa,3,0.467631849,54
+106,SDN,Sudan,1990,12408647541,Sudan,Northern Africa,Africa,7,0.107385831,12
+110,TUN,Tunisia,1990,12290568182,Tunisia,Northern Africa,Africa,9,0.106363959,12
+131,ZAF,South Africa,1990,1.16E+11,South Africa,Southern Africa,Africa,1,1,116
+15,CIV,Cote d'Ivoire,2000,16577533355,C<f4>te d<U+0092>Ivoire,Western Africa,Africa,9,0.109240235,17
+20,COD,"Congo, Dem. Rep.",2000,19088046306,Democratic Republic of the Congo,Middle Africa,Africa,8,0.12578365,19
+23,DZA,Algeria,2000,54790392746,Algeria,Northern Africa,Africa,4,0.361049816,55
+33,EGY,"Egypt, Arab Rep.",2000,99838543960,Egypt,Northern Africa,Africa,2,0.657901616,100
+66,KEN,Kenya,2000,12705357103,Kenya,Eastern Africa,Africa,11,0.083723927,13
+77,LBY,Libya,2000,38270206950,Libya,Northern Africa,Africa,6,0.252187482,38
+84,MAR,Morocco,2000,38857251336,Morocco,Northern Africa,Africa,5,0.256055902,39
+93,NGA,Nigeria,2000,69448756933,Nigeria,Western Africa,Africa,3,0.457643387,69
+109,TUN,Tunisia,2000,21473261837,Tunisia,Northern Africa,Africa,7,0.141501399,21
+113,TZA,Tanzania,2000,13375976354,United Republic of Tanzania,Eastern Africa,Africa,10,0.088143077,13
+125,ZAF,South Africa,2000,1.52E+11,South Africa,Southern Africa,Africa,1,1,152
+1,AGO,Angola,2011,1.12E+11,Angola,Middle Africa,Africa,5,0.243975365,112
+13,CIV,Cote d'Ivoire,2011,36693712825,C<f4>te d<U+0092>Ivoire,Western Africa,Africa,11,0.080081957,37
+28,DZA,Algeria,2011,2.00E+11,Algeria,Northern Africa,Africa,4,0.436517082,200
+34,EGY,"Egypt, Arab Rep.",2011,2.36E+11,Egypt,Northern Africa,Africa,3,0.515034854,236
+60,GHA,Ghana,2011,39337314810,Ghana,Western Africa,Africa,10,0.085851469,39
+67,KEN,Kenya,2011,46869457318,Kenya,Eastern Africa,Africa,9,0.102289945,47
+88,MAR,Morocco,2011,1.01E+11,Morocco,Northern Africa,Africa,6,0.221234303,101
+94,NGA,Nigeria,2011,4.05E+11,Nigeria,Western Africa,Africa,2,0.883876544,405
+105,SDN,Sudan,2011,55018567211,Sudan,Northern Africa,Africa,7,0.120074917,55
+111,TUN,Tunisia,2011,48122838145,Tunisia,Northern Africa,Africa,8,0.105025378,48
+123,ZAF,South Africa,2011,4.58E+11,South Africa,Southern Africa,Africa,1,1,458
+5,AGO,Angola,2012,1.28E+11,Angola,Middle Africa,Africa,5,0.281125001,128
+21,DZA,Algeria,2012,2.09E+11,Algeria,Northern Africa,Africa,4,0.458963956,209
+35,EGY,"Egypt, Arab Rep.",2012,2.79E+11,Egypt,Northern Africa,Africa,3,0.612767891,279
+46,ETH,Ethiopia,2012,43310721414,Ethiopia,Eastern Africa,Africa,10,0.095083493,43
+63,GHA,Ghana,2012,41270954737,Ghana,Western Africa,Africa,11,0.09060543,41
+65,KEN,Kenya,2012,56396706006,Kenya,Eastern Africa,Africa,8,0.123812203,56
+76,LBY,Libya,2012,81873662519,Libya,Northern Africa,Africa,7,0.179743805,82
+83,MAR,Morocco,2012,98266306615,Morocco,Northern Africa,Africa,6,0.215731888,98
+95,NGA,Nigeria,2012,4.56E+11,Nigeria,Western Africa,Africa,1,1,456
+112,TUN,Tunisia,2012,47311196335,Tunisia,Northern Africa,Africa,9,0.103866056,47
+121,ZAF,South Africa,2012,4.34E+11,South Africa,Southern Africa,Africa,2,0.953675286,434
+9,AGO,Angola,2013,1.37E+11,Angola,Middle Africa,Africa,5,0.268747555,137
+22,DZA,Algeria,2013,2.10E+11,Algeria,Northern Africa,Africa,4,0.412341039,210
+37,EGY,"Egypt, Arab Rep.",2013,2.88E+11,Egypt,Northern Africa,Africa,3,0.567009965,288
+51,ETH,Ethiopia,2013,47648211133,Ethiopia,Eastern Africa,Africa,11,0.093667912,48
+62,GHA,Ghana,2013,62823043706,Ghana,Western Africa,Africa,8,0.123498935,63
+74,KEN,Kenya,2013,61671425370,Kenya,Eastern Africa,Africa,9,0.121235058,62
+79,LBY,Libya,2013,65502870174,Libya,Northern Africa,Africa,7,0.128766997,66
+81,MAR,Morocco,2013,1.07E+11,Morocco,Northern Africa,Africa,6,0.210000924,107
+92,NGA,Nigeria,2013,5.09E+11,Nigeria,Western Africa,Africa,1,1,509
+108,TUN,Tunisia,2013,48683848564,Tunisia,Northern Africa,Africa,10,0.095703791,49
+122,ZAF,South Africa,2013,4.01E+11,South Africa,Southern Africa,Africa,2,0.788070604,401
+7,AGO,Angola,2014,1.46E+11,Angola,Middle Africa,Africa,5,0.266541791,146
+30,DZA,Algeria,2014,2.14E+11,Algeria,Northern Africa,Africa,4,0.391109176,214
+36,EGY,"Egypt, Arab Rep.",2014,3.06E+11,Egypt,Northern Africa,Africa,3,0.5590057,306
+45,ETH,Ethiopia,2014,55612228234,Ethiopia,Eastern Africa,Africa,8,0.101727949,56
+55,GHA,Ghana,2014,54782847753,Ghana,Western Africa,Africa,9,0.100210815,55
+75,KEN,Kenya,2014,68285768554,Kenya,Eastern Africa,Africa,7,0.124910859,68
+82,MAR,Morocco,2014,1.10E+11,Morocco,Northern Africa,Africa,6,0.201364245,110
+97,NGA,Nigeria,2014,5.47E+11,Nigeria,Western Africa,Africa,1,1,547
+107,TUN,Tunisia,2014,50271342086,Tunisia,Northern Africa,Africa,10,0.091958202,50
+118,TZA,Tanzania,2014,49964788814,United Republic of Tanzania,Eastern Africa,Africa,11,0.091397443,50
+127,ZAF,South Africa,2014,3.81E+11,South Africa,Southern Africa,Africa,2,0.697303339,381
+11,AGO,Angola,2015,1.16E+11,Angola,Middle Africa,Africa,5,0.238687929,116
+26,DZA,Algeria,2015,1.66E+11,Algeria,Northern Africa,Africa,4,0.340957225,166
+44,EGY,"Egypt, Arab Rep.",2015,3.29E+11,Egypt,Northern Africa,Africa,3,0.676591968,329
+47,ETH,Ethiopia,2015,64589334979,Ethiopia,Eastern Africa,Africa,8,0.132680643,65
+58,GHA,Ghana,2015,49406568433,Ghana,Western Africa,Africa,10,0.101491914,49
+68,KEN,Kenya,2015,70120413329,Kenya,Eastern Africa,Africa,7,0.144042689,70
+85,MAR,Morocco,2015,1.01E+11,Morocco,Northern Africa,Africa,6,0.207845884,101
+101,NGA,Nigeria,2015,4.87E+11,Nigeria,Western Africa,Africa,1,1,487
+104,SDN,Sudan,2015,51726758677,Sudan,Northern Africa,Africa,9,0.106258093,52
+117,TZA,Tanzania,2015,47378599025,United Republic of Tanzania,Eastern Africa,Africa,11,0.097326021,47
+129,ZAF,South Africa,2015,3.47E+11,South Africa,Southern Africa,Africa,2,0.71221829,347
+6,AGO,Angola,2016,1.01E+11,Angola,Middle Africa,Africa,6,0.249904856,101
+18,CIV,Cote d'Ivoire,2016,47964234560,C<f4>te d<U+0092>Ivoire,Western Africa,Africa,11,0.118532644,48
+25,DZA,Algeria,2016,1.60E+11,Algeria,Northern Africa,Africa,4,0.395487458,160
+39,EGY,"Egypt, Arab Rep.",2016,3.32E+11,Egypt,Northern Africa,Africa,2,0.82155443,332
+54,ETH,Ethiopia,2016,74296618481,Ethiopia,Eastern Africa,Africa,8,0.183607114,74
+56,GHA,Ghana,2016,56165172899,Ghana,Western Africa,Africa,9,0.138799389,56
+71,KEN,Kenya,2016,74815121315,Kenya,Eastern Africa,Africa,7,0.184888475,75
+90,MAR,Morocco,2016,1.03E+11,Morocco,Northern Africa,Africa,5,0.255311998,103
+99,NGA,Nigeria,2016,4.05E+11,Nigeria,Western Africa,Africa,1,1,405
+120,TZA,Tanzania,2016,49774021003,United Republic of Tanzania,Eastern Africa,Africa,10,0.123005118,50
+124,ZAF,South Africa,2016,3.24E+11,South Africa,Southern Africa,Africa,3,0.79966885,324
+3,AGO,Angola,2017,1.22E+11,Angola,Middle Africa,Africa,5,0.320158134,122
+16,CIV,Cote d'Ivoire,2017,51588158718,C<f4>te d<U+0092>Ivoire,Western Africa,Africa,11,0.135242611,52
+29,DZA,Algeria,2017,1.70E+11,Algeria,Northern Africa,Africa,4,0.445923308,170
+41,EGY,"Egypt, Arab Rep.",2017,2.36E+11,Egypt,Northern Africa,Africa,3,0.617996115,236
+49,ETH,Ethiopia,2017,81770791971,Ethiopia,Eastern Africa,Africa,8,0.214368872,82
+57,GHA,Ghana,2017,60406382899,Ghana,Western Africa,Africa,9,0.158360313,60
+73,KEN,Kenya,2017,82035800868,Kenya,Eastern Africa,Africa,7,0.215063615,82
+89,MAR,Morocco,2017,1.10E+11,Morocco,Northern Africa,Africa,6,0.287543027,110
+100,NGA,Nigeria,2017,3.76E+11,Nigeria,Western Africa,Africa,2,0.985049115,376
+116,TZA,Tanzania,2017,53320625959,United Republic of Tanzania,Eastern Africa,Africa,10,0.139784417,53
+132,ZAF,South Africa,2017,3.81E+11,South Africa,Southern Africa,Africa,1,1,381
+2,AGO,Angola,2018,1.01E+11,Angola,Middle Africa,Africa,6,0.250351989,101
+14,CIV,Cote d'Ivoire,2018,58011466451,C<f4>te d<U+0092>Ivoire,Western Africa,Africa,10,0.143294091,58
+31,DZA,Algeria,2018,1.75E+11,Algeria,Northern Africa,Africa,4,0.432047564,175
+38,EGY,"Egypt, Arab Rep.",2018,2.50E+11,Egypt,Northern Africa,Africa,3,0.616815943,250
+52,ETH,Ethiopia,2018,84269348327,Ethiopia,Eastern Africa,Africa,8,0.208153671,84
+61,GHA,Ghana,2018,67299280680,Ghana,Western Africa,Africa,9,0.166235916,67
+70,KEN,Kenya,2018,92202956321,Kenya,Eastern Africa,Africa,7,0.227750471,92
+86,MAR,Morocco,2018,1.18E+11,Morocco,Northern Africa,Africa,5,0.291708864,118
+98,NGA,Nigeria,2018,3.97E+11,Nigeria,Western Africa,Africa,2,0.981098799,397
+119,TZA,Tanzania,2018,57003713611,United Republic of Tanzania,Eastern Africa,Africa,11,0.140804841,57
+128,ZAF,South Africa,2018,4.05E+11,South Africa,Southern Africa,Africa,1,1,405
+10,AGO,Angola,2019,89417190341,Angola,Middle Africa,Africa,8,0.199538495,89
+17,CIV,Cote d'Ivoire,2019,58539424930,C<f4>te d<U+0092>Ivoire,Western Africa,Africa,11,0.130633368,59
+32,DZA,Algeria,2019,1.72E+11,Algeria,Northern Africa,Africa,4,0.383305811,172
+43,EGY,"Egypt, Arab Rep.",2019,3.03E+11,Egypt,Northern Africa,Africa,3,0.676338927,303
+48,ETH,Ethiopia,2019,95912590628,Ethiopia,Eastern Africa,Africa,7,0.214033274,96
+64,GHA,Ghana,2019,68337537816,Ghana,Western Africa,Africa,9,0.152498299,68
+69,KEN,Kenya,2019,1.01E+11,Kenya,Eastern Africa,Africa,6,0.22439302,101
+87,MAR,Morocco,2019,1.20E+11,Morocco,Northern Africa,Africa,5,0.267495314,120
+103,NGA,Nigeria,2019,4.48E+11,Nigeria,Western Africa,Africa,1,1,448
+114,TZA,Tanzania,2019,61136873692,United Republic of Tanzania,Eastern Africa,Africa,10,0.136429692,61
+130,ZAF,South Africa,2019,3.88E+11,South Africa,Southern Africa,Africa,2,0.865694457,388
+4,AGO,Angola,2020,58375976293,Angola,Middle Africa,Africa,11,0.135037674,58
+12,CIV,Cote d'Ivoire,2020,61348579465,C<f4>te d<U+0092>Ivoire,Western Africa,Africa,10,0.14191402,61
+27,DZA,Algeria,2020,1.45E+11,Algeria,Northern Africa,Africa,4,0.335440695,145
+42,EGY,"Egypt, Arab Rep.",2020,3.65E+11,Egypt,Northern Africa,Africa,2,0.844918042,365
+50,ETH,Ethiopia,2020,1.08E+11,Ethiopia,Eastern Africa,Africa,6,0.249008776,108
+59,GHA,Ghana,2020,68532281806,Ghana,Western Africa,Africa,8,0.158531652,69
+72,KEN,Kenya,2020,1.01E+11,Kenya,Eastern Africa,Africa,7,0.233669679,101
+80,MAR,Morocco,2020,1.15E+11,Morocco,Northern Africa,Africa,5,0.265386519,115
+96,NGA,Nigeria,2020,4.32E+11,Nigeria,Western Africa,Africa,1,1,432
+115,TZA,Tanzania,2020,62409709111,United Republic of Tanzania,Eastern Africa,Africa,9,0.144368668,62
+126,ZAF,South Africa,2020,3.35E+11,South Africa,Southern Africa,Africa,3,0.775958029,335
+96,NGA,Nigeria,2021,5.14E+11,Nigeria,Western Africa,Africa,1,1,514
+42,EGY,"Egypt, Arab Rep.",2021,3.94E+11,Egypt,Northern Africa,Africa,2,0.7670071,394
+126,ZAF,South Africa,2021,3.30E+11,South Africa,Southern Africa,Africa,3,0.641046591,330
+27,DZA,Algeria,2021,1.51E+11,Algeria,Northern Africa,Africa,4,0.294640599,151
+80,MAR,Morocco,2021,1.24E+11,Morocco,Northern Africa,Africa,5,0.241221671,124
+72,KEN,Kenya,2021,1.06E+11,Kenya,Eastern Africa,Africa,6,0.206283435,106
+50,ETH,Ethiopia,2021,9.40E+10,Ethiopia,Eastern Africa,Africa,7,0.182803229,94
+59,GHA,Ghana,2021,7.43E+10,Ghana,Western Africa,Africa,8,0.144460656,74
+12,CIV,Cote d'Ivoire,2021,70990000000,C<f4>te d<U+0092>Ivoire,Western Africa,Africa,9,0.138099407,71
+4,AGO,Angola,2021,6.65E+10,Angola,Middle Africa,Africa,10,0.129345394,66
+115,TZA,Tanzania,2021,65920000000,United Republic of Tanzania,Eastern Africa,Africa,11,0.128236553,66
+96,NGA,Nigeria,2022,4.80E+11,Nigeria,Western Africa,Africa,1,1,480
+42,EGY,"Egypt, Arab Rep.",2022,4.15E+11,Egypt,Northern Africa,Africa,2,0.864385614,415
+126,ZAF,South Africa,2022,3.96E+11,South Africa,Southern Africa,Africa,3,0.824862637,396
+27,DZA,Algeria,2022,1.64E+11,Algeria,Northern Africa,Africa,4,0.340929903,164
+80,MAR,Morocco,2022,1.26E+11,Morocco,Northern Africa,Africa,5,0.262321012,126
+72,KEN,Kenya,2022,1.09E+11,Kenya,Eastern Africa,Africa,6,0.22787629,129
+50,ETH,Ethiopia,2022,9.28E+10,Ethiopia,Eastern Africa,Africa,7,0.193056943,93
+59,GHA,Ghana,2022,7.55E+10,Ghana,Western Africa,Africa,8,0.15711372,75
+4,AGO,Angola,2022,7.03E+10,Angola,Middle Africa,Africa,9,0.146395271,70
+115,TZA,Tanzania,2022,69240000000,United Republic of Tanzania,Eastern Africa,Africa,10,0.144105894,69
+12,CIV,Cote d'Ivoire,2022,68840000000,C<f4>te d<U+0092>Ivoire,Western Africa,Africa,11,0.143273393,69
